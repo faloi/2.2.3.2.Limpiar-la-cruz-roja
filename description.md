@@ -1,6 +1,6 @@
 #Proyecto 2.2.3.2. Limpiar la cruz roja
 
-:wink: :red: :stuck_out_tongue:
+:wink: :scream: :stuck_out_tongue:
 
 Un dibujo de la cruz roja hecho con bolitas se manchó con ceniza; el propósito del programa que hay que hacer es limpiar la imagen de ceniza, sacando las bolitas negras. Abrí el proyecto “Limpiar la cruz roja” y construí el programa. El tablero inicial y el tablero final se dan a continuación.
 
